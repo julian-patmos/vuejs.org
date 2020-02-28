@@ -127,4 +127,4 @@ it('actualiza el mensaje renderizado cuando vm.message se actualiza', done => {
 })
 ```
 
-Para obtener información más detallada sobre las pruebas de unidad en Vue, consulte [Vue Test Utils](https://vue-test-utils.vuejs.org/) y nuestro *cookbook* sobre [testing unitario en componentes vue](https://vuejs.org/v2/cookbook/unit-testing-vue-components.html).
+Para obtener información más detallada sobre las pruebas unitarias en Vue, consulte [Vue Test Utils](https://vue-test-utils.vuejs.org/) y nuestro *cookbook* sobre [testing unitario en componentes vue](https://vuejs.org/v2/cookbook/unit-testing-vue-components.html).
